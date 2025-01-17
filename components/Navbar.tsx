@@ -12,11 +12,8 @@ const Navbar = () => {
             <Link href="/" className="hover:text-blue-600">
               Home
             </Link>
-            <Link href="/about" className="hover:text-blue-600">
-              About
-            </Link>
-            <Link href="/contact" className="hover:text-blue-600">
-              Contact
+            <Link href="/pokedex" className="hover:text-blue-600">
+              Pokédex
             </Link>
             {/* Weitere Links hier */}
           </div>
